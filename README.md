@@ -1,1 +1,1 @@
-# fc-python-django-api
+# basic-python-django-api
