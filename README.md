@@ -11,6 +11,9 @@
 # SCREEN - ON 
 ________________________________
 <p>
+<img src="https://github.com/FernandoCelmer/basic-python-django-api-clientes/blob/master/Design/basic-python-django-api-clientes-01.jpg">
+<img src="https://github.com/FernandoCelmer/basic-python-django-api-clientes/blob/master/Design/basic-python-django-api-clientes-02.jpg">
+<img src="https://github.com/FernandoCelmer/basic-python-django-api-clientes/blob/master/Design/basic-python-django-api-clientes-03.jpg">
 
  
 
