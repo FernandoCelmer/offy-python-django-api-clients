@@ -17,9 +17,9 @@
 ## 💻 Demo
 ________________________________
 <p>
-<img src="https://github.com/FernandoCelmer/offy-python-django-api-clients/blob/master/Design/basic-python-django-api-clientes-01.jpg">
-<img src="https://github.com/FernandoCelmer/offy-python-django-api-clients/blob/master/Design/basic-python-django-api-clientes-02.jpg">
-<img src="https://github.com/FernandoCelmer/offy-python-django-api-clients/blob/master/Design/basic-python-django-api-clientes-03.jpg">
+<img src="https://github.com/FernandoCelmer/offy-python-django-api-clients/blob/master/Files/basic-python-django-api-clientes-01.jpg?raw=true">
+<img src="https://github.com/FernandoCelmer/offy-python-django-api-clients/blob/master/Files/basic-python-django-api-clientes-02.jpg?raw=true">
+<img src="https://github.com/FernandoCelmer/offy-python-django-api-clients/blob/master/Files/basic-python-django-api-clientes-03.jpg?raw=true">
 
  
 
