@@ -8,14 +8,13 @@
 - [Django](https://www.djangoproject.com/)
 - [Django REST framework](https://www.django-rest-framework.org/)
 
-## ✔️ Requerements
+## ✔️ Requirements
 
     Django==1.11.29
     djangorestframework==3.9.4
     pytz==2020.1
 
-
-## 💻 Screen - ON 
+## 💻 Demo
 ________________________________
 <p>
 <img src="https://github.com/FernandoCelmer/offy-python-django-api-clients/blob/master/Design/basic-python-django-api-clientes-01.jpg">
