@@ -1,4 +1,4 @@
-# [offy-python-django-api-clients]
+# [project-python-django-api-clients]
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/offy-python-django-api-clients) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 
